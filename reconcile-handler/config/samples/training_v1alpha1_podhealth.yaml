@@ -1,0 +1,7 @@
+apiVersion: training.loodse.io/v1alpha1
+kind: PodHealth
+metadata:
+  name: podhealth-sample
+spec:
+  # Add fields here
+  foo: bar

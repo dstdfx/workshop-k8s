@@ -1,0 +1,7 @@
+domain: loodse.io
+repo: github.com/dstdfx/workshop-k8s/reconcile-handler
+resources:
+- group: training
+  kind: PodHealth
+  version: v1alpha1
+version: "2"
